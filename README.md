@@ -130,7 +130,6 @@ Potential use cases include:
 ├── Dataset_Validation.ipynb
 ├── README.md
 ├── sample_dataset.csv
-└── images/
 ```
 
 ---
