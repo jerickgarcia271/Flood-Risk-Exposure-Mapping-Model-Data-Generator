@@ -129,7 +129,7 @@ Potential use cases include:
 ├── Dataset_Generator.ipynb
 ├── Dataset_Validation.ipynb
 ├── README.md
-├── sample_dataset.csv
+├── sample datasets (location, events, assets, etc.)
 ```
 
 ---
